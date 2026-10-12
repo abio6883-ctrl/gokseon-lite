@@ -1,0 +1,11 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Robots-Tag: noindex, nofollow
+/data.bin
+  Cache-Control: no-cache
+/meta.json
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
